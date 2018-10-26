@@ -1,5 +1,5 @@
 :root {
-  --jumbotron-padding-y: 3rem;
+  --jumbotron-padding-y: 2rem;
 }
 
 .jumbotron {
@@ -20,11 +20,11 @@
 }
 
 .jumbotron-heading {
-  font-weight: 300;
+  font-weight: 600;
 }
 
 .jumbotron .container {
-  max-width: 40rem;
+  max-width: 60rem;
 }
 
 footer {
